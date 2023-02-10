@@ -9,6 +9,7 @@
     <name>mall-mall</name>
     <description>马士兵三高项目-聚合工程</description>
     <packaging>pom</packaging>
+    <!--IDEA与git的测试1-->
 
     <modules>
         <module>mall-ware</module>
