@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <!--IDEA与git的测试1-->
     <!--IDEA与git的测试2-->
+    <!--IDEA与git的测试3,远程修改-->
 
     <modules>
         <module>mall-ware</module>
