@@ -10,6 +10,7 @@
     <description>马士兵三高项目-聚合工程</description>
     <packaging>pom</packaging>
     <!--IDEA与git的测试1-->
+    <!--IDEA与git的测试2-->
 
     <modules>
         <module>mall-ware</module>
